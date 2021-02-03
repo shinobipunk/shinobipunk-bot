@@ -4,8 +4,6 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 
-const prefix = process.env.PREFIX;
-
 client.on("message", (message) => {
     if (message.author.bot) return;
 
