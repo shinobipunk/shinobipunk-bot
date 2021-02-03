@@ -22,5 +22,8 @@
   "homepage": "https://github.com/shinobipunk/shinobipunk-bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1"
-  }
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
 }
