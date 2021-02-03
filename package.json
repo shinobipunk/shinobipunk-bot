@@ -1,0 +1,26 @@
+{
+  "name": "shinobipunk-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinobipunk/shinobipunk-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Elias Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinobipunk/shinobipunk-bot/issues"
+  },
+  "homepage": "https://github.com/shinobipunk/shinobipunk-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
