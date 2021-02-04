@@ -20,7 +20,8 @@ client.on("message", (message) => {
     const btoTexto = [
         "bto",
         "beto",
-        "Beto"
+        "Beto",
+        "Bto"
     ];
 
     const btoFrases = [
@@ -28,6 +29,7 @@ client.on("message", (message) => {
         "Te vendo unos audifonos gamer",
         "Alguien dijo nepe",
         "Ya Ferrales",
+        "De que trata",
         "Monstruo"
     ];
 
